@@ -8,3 +8,6 @@ FireBase For real time database and react for frontend
 Clone this repo 
 run `npm install` in the directory of clone repo and then
 run `npm run start` in the terminal
+
+## Deployed URL Link
+[https://collbrativenoteapp.netlify.app/](https://collbrativenoteapp.netlify.app/)
