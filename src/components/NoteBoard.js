@@ -23,7 +23,7 @@ const NoteBoard = ({ name, setName, isEditing, setIsEditing }) => {
     <div className="container">
       {isEditing ? (
         <div className="mt-4">
-        <label for="not"><h5 className="text-danger">Edit Below Notes</h5></label>
+        <label htmlFor="note"><h5 className="text-danger">Edit Below Notes</h5></label>
         <textarea
         name ="note"
         className="form-control mt-3 "
